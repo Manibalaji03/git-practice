@@ -4,6 +4,11 @@ public class Main {
         System.out.print("hello");
         System.out.print("Venkadesh");
         System.out.print("Dharmar");
+        int num1 = 2,num2 = 5;
+        substract();
+    }
+    public static int substract(int num1,int num2){
+        return num1-num2;
     }
 
 }
