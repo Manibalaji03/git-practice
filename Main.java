@@ -4,7 +4,7 @@ public class Main {
         System.out.print("hello");
         System.out.print("Venkadesh");
         System.out.print("Dharmar");
-        System.out.println("vicky");
+        System.out.println("Vicky");
         int num1 = 2,num2 = 5;
         substract();
     }
