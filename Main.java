@@ -5,7 +5,7 @@ public class Main {
         System.out.print("Venkadesh");
         System.out.print("Dharmar");
         int num1 = 2,num2 = 5;
-        substract();
+        substract(num1,num2);
     }
     public static int substract(int num1,int num2){
         return num1-num2;
